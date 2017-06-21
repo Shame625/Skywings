@@ -1,0 +1,236 @@
+<ItemCollection>
+	<Items>
+		<Item name = "DefaultPlayer">
+			<DisplayName>Default Player</DisplayName>
+			<ItemSprite>defaultPlayer</ItemSprite>
+			<ItemType>player-skin</ItemType>
+			<Cost>0</Cost>
+			<Note>Just default player</Note>
+		</Item>
+		<Item name = "Paper Plane">
+		<DisplayName>Paper Plane</DisplayName>
+			<ItemSprite>paperPlane</ItemSprite>
+			<ItemType>player-skin</ItemType>
+			<Cost>1</Cost>
+			<Note>Paper planes are cool!</Note>
+		</Item>
+    <Item name = "Pegas">
+      <DisplayName>Pegas</DisplayName>
+      <ItemSprite>pegas</ItemSprite>
+      <ItemType>player-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Paper planes are cool!</Note>
+    </Item>
+    
+    <Item name = "Dragon">
+      <DisplayName>Dragon</DisplayName>
+      <ItemSprite>dragon</ItemSprite>
+      <ItemType>player-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Paper planes are cool!</Note>
+    </Item>
+    
+    <Item name = "Dragon2">
+      <DisplayName>Dragona</DisplayName>
+      <ItemSprite>dragon2</ItemSprite>
+      <ItemType>player-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Paper planes are cool!</Note>
+    </Item>
+
+    <Item name = "DefaultMap">
+		<DisplayName>Default Map</DisplayName>
+			<ItemSprite>defaultMap</ItemSprite>
+			<ItemType>map-skin</ItemType>
+			<Cost>0</Cost>
+			<Note>Just a default map</Note>
+		</Item>
+    
+		<Item name = "Speed 1">
+		<DisplayName>Speed x2</DisplayName>
+			<ItemSprite>speed1</ItemSprite>
+			<ItemType>player-item</ItemType>
+			<Cost>1</Cost>
+			<Note>Veliki Magnet!</Note>
+			<Effect>speed</Effect>
+		</Item>
+		
+		<Item name = "Speed 2">
+		<DisplayName>Speed x2</DisplayName>
+			<ItemSprite>speed2</ItemSprite>
+			<ItemType>player-item</ItemType>
+			<Cost>1</Cost>
+			<Note>Veliki Magnet!</Note>
+			<Effect>speed</Effect>
+		</Item>
+		
+		<Item name = "Speed 3">
+		<DisplayName>Speed x2</DisplayName>
+			<ItemSprite>speed3</ItemSprite>
+			<ItemType>player-item</ItemType>
+			<Cost>1</Cost>
+			<Note>Veliki Magnet!</Note>
+			<Effect>speed</Effect>
+		</Item>
+		
+		
+		<Item name = "Magnet 1">
+		<DisplayName>Magnet</DisplayName>
+			<ItemSprite>magnet1</ItemSprite>
+			<ItemType>player-item</ItemType>
+			<Cost>1</Cost>
+			<Note>Mali Magnet!</Note>
+			<Effect>magnet</Effect>
+		</Item>
+		
+		<Item name = "Magnet 2">
+		<DisplayName>Magnet x2</DisplayName>
+			<ItemSprite>magnet2</ItemSprite>
+			<ItemType>player-item</ItemType>
+			<Cost>1</Cost>
+			<Note>Veliki Magnet!</Note>
+			<Effect>magnet</Effect>
+		</Item>
+
+    <Item name = "Magnet 3">
+      <DisplayName>Magnet x2</DisplayName>
+      <ItemSprite>magnet3</ItemSprite>
+      <ItemType>player-item</ItemType>
+      <Cost>1</Cost>
+      <Note>Veliki Magnet!</Note>
+      <Effect>magnet</Effect>
+    </Item>
+
+    <Item name = "Space">
+      <DisplayName>Space Background</DisplayName>
+      <ItemSprite>space</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Auto Pilot</Note>
+    </Item>
+
+    <Item name = "Reverse Mode">
+      <DisplayName>Upside Down</DisplayName>
+      <ItemSprite>upsideDown</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Auto Pilot</Note>
+    </Item>
+    
+    <Item name = "Double Speed">
+      <DisplayName>Speed increasing x2</DisplayName>
+      <ItemSprite>x2Speed</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+
+    <Item name = "Double Speed 2">
+      <DisplayName>Speed increasing x2</DisplayName>
+      <ItemSprite>x2Speed</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+    
+
+    <Item name = "Double Coin">
+      <DisplayName>Coins increasing x2</DisplayName>
+      <ItemSprite>doubleCoin</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+
+    <Item name = "Double Coin 2">
+      <DisplayName>Coins increasing x2</DisplayName>
+      <ItemSprite>doubleCoin</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+    
+    <Item name = "Auto Pilot">
+      <DisplayName>Auto Pilot</DisplayName>
+      <ItemSprite>autoPilot</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+
+
+    
+    <Item name = "Hyper Mode">
+      <DisplayName>Hyper Mode</DisplayName>
+      <ItemSprite>hyperMode</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+
+    <Item name = "Hyper Mode Extreme">
+      <DisplayName>Hyper Mode Extreme</DisplayName>
+      <ItemSprite>hyperModeExtreme</ItemSprite>
+      <ItemType>special</ItemType>
+      <Cost>1</Cost>
+      <Note>Lol thats simple</Note>
+    </Item>
+
+    <Item name = "Dark">
+			<DisplayName>Darkness</DisplayName>
+			<ItemSprite>dark</ItemSprite>
+			<ItemType>map-skin</ItemType>
+			<Cost>1</Cost>
+			<Note>Dark mode</Note>
+		</Item>
+    <Item name = "Red">
+      <DisplayName>Redness</DisplayName>
+      <ItemSprite>redness</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+    <Item name = "Blue">
+      <DisplayName>Blueness</DisplayName>
+      <ItemSprite>blueness</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+    <Item name = "Crate">
+      <DisplayName>Crate</DisplayName>
+      <ItemSprite>crate</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+    <Item name = "Rubik">
+      <DisplayName>Rubik</DisplayName>
+      <ItemSprite>rubik</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+    <Item name = "Chocholate">
+      <DisplayName>Chocholate</DisplayName>
+      <ItemSprite>chocholate</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+    <Item name = "Sky">
+      <DisplayName>Sky</DisplayName>
+      <ItemSprite>sky</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+    <Item name = "Space Map">
+      <DisplayName>Space</DisplayName>
+      <ItemSprite>space</ItemSprite>
+      <ItemType>map-skin</ItemType>
+      <Cost>1</Cost>
+      <Note>Dark mode</Note>
+    </Item>
+	</Items>
+</ItemCollection>
